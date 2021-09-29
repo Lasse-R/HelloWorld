@@ -5,6 +5,8 @@ public class helloWorld {
 
         System.out.println("Time to add some code bois");
 
+        System.out.println("Time to puuuull the internet");
+
         System.out.println("Hello dudes");
     }
 
